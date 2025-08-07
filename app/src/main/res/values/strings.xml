@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherCity</string>
+    <string name="POPULAR_CITIES">POPULAR CITIES</string>
+    <string name="DEFAULT_CITIES">DEFAULT CITIES </string>
+    <string name="ERROR_404">Данного города не существует</string>
+    <string name="INPUT_CITY">Введите город</string>
+</resources>
