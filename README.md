@@ -6,5 +6,5 @@ CityWeather — это Android-приложение, которое предос
 3. Сохранение истории/избранных городов
 4. Кэширование данных при отсутствии подключения
 
-Используемые технологии и библиотеки
+Используемые технологии:
 Jetpack Compose, Hilt, Room, Retrofit, ViewModel, Coil, Clean Architecture, Coroutines, Navigation Compose
